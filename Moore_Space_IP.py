@@ -1,6 +1,6 @@
 """
-This module contains a color-wheel model for the Moore spaces with homology H_1 = Z_r obtained by a
-quotient of the unit disk, as well as examples of their
+This module contains image patch models for the real projective plane RP^2 = M(Z_2, 1) and the Moore
+space M(Z_4,1), as well as examples of their
 persistence computations. 
 """
 

@@ -1,3 +1,8 @@
+"""This module contains a model for the 3-dimensional sphere using spherical coordinates, as well as
+persistence calculations for a sampling of the sphere.
+"""
+
+
 import numpy as np
 import scipy as sp
 from ripser import ripser

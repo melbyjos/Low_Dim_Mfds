@@ -1,7 +1,6 @@
 """
-This module contains a color-wheel model for the Moore spaces with homology H_1 = Z_r obtained by a
-quotient of the unit disk, as well as examples of their
-persistence computations. 
+This module contains a model for the Klein bottle using grayscale image patches using the DCT basis,
+as well as examples of their persistence computations.
 """
 
 import time
